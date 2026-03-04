@@ -1,0 +1,14 @@
+C:\Users\Javier Parra\Desktop\Areas\bin\Debug\net8.0\GeometricFigures.exe
+C:\Users\Javier Parra\Desktop\Areas\bin\Debug\net8.0\GeometricFigures.deps.json
+C:\Users\Javier Parra\Desktop\Areas\bin\Debug\net8.0\GeometricFigures.runtimeconfig.json
+C:\Users\Javier Parra\Desktop\Areas\bin\Debug\net8.0\GeometricFigures.dll
+C:\Users\Javier Parra\Desktop\Areas\bin\Debug\net8.0\GeometricFigures.pdb
+C:\Users\Javier Parra\Desktop\Areas\obj\Debug\net8.0\GeometricFigures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier Parra\Desktop\Areas\obj\Debug\net8.0\GeometricFigures.AssemblyInfoInputs.cache
+C:\Users\Javier Parra\Desktop\Areas\obj\Debug\net8.0\GeometricFigures.AssemblyInfo.cs
+C:\Users\Javier Parra\Desktop\Areas\obj\Debug\net8.0\GeometricFigures.csproj.CoreCompileInputs.cache
+C:\Users\Javier Parra\Desktop\Areas\obj\Debug\net8.0\GeometricFigures.dll
+C:\Users\Javier Parra\Desktop\Areas\obj\Debug\net8.0\refint\GeometricFigures.dll
+C:\Users\Javier Parra\Desktop\Areas\obj\Debug\net8.0\GeometricFigures.pdb
+C:\Users\Javier Parra\Desktop\Areas\obj\Debug\net8.0\GeometricFigures.genruntimeconfig.cache
+C:\Users\Javier Parra\Desktop\Areas\obj\Debug\net8.0\ref\GeometricFigures.dll
